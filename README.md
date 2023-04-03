@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=26&pause=1000&color=DA0000&background=CFFF7200&width=435&lines=Hi%2C+i'm+WapRe!)](https://git.io/typing-svg)
 
 <!--
 **WapRe/WapRe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
