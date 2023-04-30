@@ -10,11 +10,8 @@ I'm WapRe, a junior security analyst working in a Network Operation and Security
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=plastic&logo=elasticsearch) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black) ![Splunk](https://img.shields.io/badge/Splunk-brightgreen?style=plastic&logo=Splunk) ![TheHive](https://img.shields.io/badge/TheHive-yellow?style=plastic) ![GPT](https://img.shields.io/badge/GPT-lightgrey?style=plastic&logo=OpenAI) ![HTML](https://img.shields.io/badge/HTML-informational?style=plastic)
 
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=WapRe&limit=5&theme=monokai&combine_all_yearly_contributions=true)
 
-### :trollface: A random meme for you (F5 to have a new one):trollface:
-<img src="https://rm.up.railway.app/" width="512px"/>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=WapRe&icon=6&color=8)](https://visitcount.itsvg.in)
