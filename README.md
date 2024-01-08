@@ -5,7 +5,6 @@
 # :japanese_goblin: About Me::japanese_ogre:
 I'm WapRe, a junior security analyst working in a Network Operation and Security Operation Center. <br><br>I'm currently learning Python to improve my skills in cybersecurity, specifically in network security, automation, and data analysis.<br><br><h3>Future Goals:</h3><br><br>I'm passionate about cybersecurity and staying up-to-date with the latest trends and best practices. <br><br>In the future, I hope to continue to grow my skills and advance my career as a cybersecurity professional.<br><br>Thank you for learning a bit about me and my experiences
 
-<script src="https://tryhackme.com/badge/1560642"></script>
 
 ## :wrench: Tools: :wrench:
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=plastic&logo=elasticsearch) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black) ![Splunk](https://img.shields.io/badge/Splunk-brightgreen?style=plastic&logo=Splunk) ![TheHive](https://img.shields.io/badge/TheHive-yellow?style=plastic) ![GPT](https://img.shields.io/badge/GPT-lightgrey?style=plastic&logo=OpenAI) ![HTML](https://img.shields.io/badge/HTML-informational?style=plastic)
