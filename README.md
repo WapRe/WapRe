@@ -3,7 +3,7 @@
 
 
 # :japanese_goblin: About Me::japanese_ogre:
-I'm WapRe, a junior security analyst working in a Network Operation and Security Operation Center. <br><br>I'm currently learning Python to improve my skills in cybersecurity, specifically in network security, automation, and data analysis.<br><br><h3>Future Goals:</h3><br><br>I'm passionate about cybersecurity and staying up-to-date with the latest trends and best practices. <br><br>In the future, I hope to continue to grow my skills and advance my career as a cybersecurity professional.<br><br>Thank you for learning a bit about me and my experiences
+I'm WapRe, a junior security analyst working as a Web Data Integrator at the moment, with experience in SOC. <br><br>I'm currently learning Python to improve my skills in cybersecurity, specifically in network security, automation, and data analysis.<br><br><h3>Future Goals:</h3><br><br>I'm passionate about cybersecurity and staying up-to-date with the latest trends and best practices. <br><br>In the future, I hope to continue to grow my skills and advance my career as a cybersecurity professional.<br><br>Thank you for learning a bit about me and my experiences
 
 
 ## :wrench: Tools: :wrench:
